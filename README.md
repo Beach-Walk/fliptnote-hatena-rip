@@ -1,5 +1,5 @@
 # fliptnote-hatena-rip
-Download .ppm files of flipnotes from users achieved by sudomemo
+Download .ppm files of flipnotes from users archived by sudomemo
 
 Only tested with DSI flipnotes.
 
